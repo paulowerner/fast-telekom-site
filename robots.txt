@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /area-cliente.html
+
+Sitemap: https://fasttelekom.com.br/sitemap.xml
